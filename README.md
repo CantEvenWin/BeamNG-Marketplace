@@ -32,8 +32,7 @@ It also follows the game's own UI style (colours, fonts and icons), with optiona
 ## Install
 
 1. Download `Marketplace.zip` from the [latest release](../../releases/latest).
-2. Put the zip (don't extract it) in your BeamNG mods folder, usually:
-   `%LOCALAPPDATA%\BeamNG\BeamNG.drive\current\mods`
+2. Put the zip (don't extract it) in your BeamNG mods folder
 3. Start the game. If you want the BeamMP features, start it through the **BeamMP launcher**.
 4. Open **Mods → Repository**, or click the Repository button in the main menu, to open Marketplace.
 
