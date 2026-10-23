@@ -1,0 +1,7 @@
+{
+  "toggleRepoFinder": {
+    "cat": "gameplay", "order": 99, "ctx": "tlua", "isBasic": true,
+    "onDown": "extensions.marketplaceMod.toggle()",
+    "title": "Toggle Marketplace", "desc": "Open/close the Marketplace"
+  }
+}

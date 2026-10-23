@@ -1,0 +1,21 @@
+{
+  "domElement": "<marketplace-mod-app></marketplace-mod-app>",
+  "name": "Marketplace",
+  "types": [
+    "ui.apps.categories.utilities"
+  ],
+  "css": {
+    "width": "140px",
+    "height": "40px",
+    "top": "10px",
+    "left": "200px"
+  },
+  "description": "Opens the Marketplace.",
+  "author": "CantEvenWin",
+  "version": "1.0.0",
+  "directive": "marketplaceModApp",
+  "category": "Utilities",
+  "isAuxiliary": false,
+  "interactive": "required",
+  "preserveAspectRatio": false
+}
